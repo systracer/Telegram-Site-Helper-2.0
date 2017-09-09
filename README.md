@@ -1,5 +1,5 @@
 #Attention!
-If you want new version of TelegramSiteHelper (each customet in new chatroom)
+If you want new version of TelegramSiteHelper (each customer in new chatroom)
 Please Twitter tweet: 
 `@telegram #telegramPleaseMakeBotPossibleToCreateGroup`
 
